@@ -1,6 +1,7 @@
 
-# StAlK: Structural Alignment based Self Knowledge distillation for Medical Image Classification accepted at Knowledge Based Systems Journal
-
+# StAlK: Structural Alignment based Self Knowledge distillation for Medical Image Classification 
+## Accepted at Knowledge Based Systems Journal
+Here is the link to the [article](https://www.sciencedirect.com/science/article/pii/S0950705124011377).
 
 ## Installation
 ### Mandatory Dependencies
